@@ -1,0 +1,11 @@
+<map id="hal_ioctl" name="hal_ioctl">
+<area shape="rect" id="node2" href="$hal-ioctl_8h.html#a3f2ec7bc04dae05d18847f9ead12a087" title="Defined in hal&#45;ioctl&#45;tdm.c. " alt="" coords="125,5,307,32"/>
+<area shape="rect" id="node3" href="$hal-ioctl_8h.html#aa9e13c4c84304feeabc7ed95eef9d7be" title="hal_ioctl_get_clock" alt="" coords="149,56,283,83"/>
+<area shape="rect" id="node4" href="$hal-ioctl_8h.html#a64edac991bad4e67b5b5c8a2ce8d4af0" title="hal_ioctl_set_clock" alt="" coords="149,107,283,133"/>
+<area shape="rect" id="node5" href="$hal-ioctl_8h.html#ab430a550fe107aec47b4722955ef6a4e" title="Defined in hal&#45;ioctl&#45;sysclk.c. " alt="" coords="146,158,286,199"/>
+<area shape="rect" id="node6" href="$hal-ioctl_8h.html#a1e98ab14ba15ac2aaab8253ed967d869" title="Defined in hal&#45;ioctl&#45;dsp.c. " alt="" coords="151,224,281,251"/>
+<area shape="rect" id="node7" href="$hal-ioctl_8h.html#a20177987b14bfee3c753bdadd3822a00" title="Defined in hal&#45;ioctl&#45;mux.c. " alt="" coords="149,275,283,301"/>
+<area shape="rect" id="node8" href="$hal-ioctl-misc_8c.html#a09e790cd60f090a48254f94d1516adce" title="Defined in hal&#45;ioctl&#45;misc.c. " alt="" coords="145,325,287,352"/>
+<area shape="rect" id="node9" href="$hal-ioctl_8h.html#ad74b246c992b1c05a77a3e68773b1606" title="Defined in hal&#45;ioctl&#45;flash.c. " alt="" coords="144,376,288,403"/>
+<area shape="rect" id="node10" href="$hal-ioctl_8h.html#a2a5cfe34bc2a147372645cad381d2c73" title="Defined in hal&#45;ioctl&#45;mem.c. " alt="" coords="147,427,285,453"/>
+</map>

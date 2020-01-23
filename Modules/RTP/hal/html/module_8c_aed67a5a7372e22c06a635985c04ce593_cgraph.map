@@ -1,0 +1,5 @@
+<map id="mod_init" name="mod_init">
+<area shape="rect" id="node2" href="$module_8c.html#a248d114c820c952030897b47942271a5" title="hal_version" alt="" coords="125,5,213,32"/>
+<area shape="rect" id="node3" href="$group__Exported.html#ga8217b7cafd784e2bc9b1289750cc7d48" title="init_startup" alt="" coords="126,56,213,83"/>
+<area shape="rect" id="node4" href="$group__Exported.html#ga9a568e99c4202f69b0390dde117871e1" title="init_shutdown" alt="" coords="262,56,365,83"/>
+</map>

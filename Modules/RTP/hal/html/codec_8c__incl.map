@@ -1,0 +1,13 @@
+<map id="codec.c" name="codec.c">
+<area shape="rect" id="node2" href="$driver_8h.html" title="Main header of the module. " alt="" coords="419,80,484,107"/>
+<area shape="rect" id="node3" href="$hal_8h.html" title="HAL header. " alt="" coords="123,155,173,181"/>
+<area shape="rect" id="node7" href="$cb_8h_source.html" title="cb.h" alt="" coords="238,304,284,331"/>
+<area shape="rect" id="node8" href="$channel_8h.html" title="channel.h" alt="" coords="261,229,339,256"/>
+<area shape="rect" id="node9" href="$codec_8h.html" title="codec.h" alt="" coords="311,155,379,181"/>
+<area shape="rect" id="node10" href="$vcodec_8h_source.html" title="vcodec.h" alt="" coords="372,229,445,256"/>
+<area shape="rect" id="node11" href="$vmux_8h_source.html" title="vmux.h" alt="" coords="455,155,520,181"/>
+<area shape="rect" id="node12" href="$voice-ioctl_8h_source.html" title="voice&#45;ioctl.h" alt="" coords="545,155,636,181"/>
+<area shape="rect" id="node13" href="$clk-common_8h.html" title="clk&#45;common.h" alt="" coords="661,155,765,181"/>
+<area shape="rect" id="node4" href="$hal-ioctl_8h.html" title="hal&#45;ioctl.h" alt="" coords="7,229,85,256"/>
+<area shape="rect" id="node6" href="$dsp-hal_8h_source.html" title="dsp&#45;hal.h" alt="" coords="111,229,184,256"/>
+</map>

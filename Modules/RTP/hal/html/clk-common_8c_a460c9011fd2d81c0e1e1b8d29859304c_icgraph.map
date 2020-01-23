@@ -1,0 +1,4 @@
+<map id="sysclk_source_get_node_by_id" name="sysclk_source_get_node_by_id">
+<area shape="rect" id="node2" href="$group__Exported.html#gad767352f1280168bcd185777924a808e" title="sysclk_source_remove" alt="" coords="222,5,378,32"/>
+<area shape="rect" id="node3" href="$group__Exported.html#gaf2d1ccf1071ab12f0e390a7f826706b3" title="sysclk_source_tick" alt="" coords="233,56,367,83"/>
+</map>

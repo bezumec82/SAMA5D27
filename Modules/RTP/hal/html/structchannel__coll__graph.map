@@ -1,0 +1,8 @@
+<map id="channel" name="channel">
+<area shape="rect" id="node4" href="$structvocoder.html" title="vocoder" alt="" coords="114,213,181,240"/>
+<area shape="rect" id="node2" href="$structs__circular__buffer.html" title="s_circular_buffer" alt="" coords="195,5,313,32"/>
+<area shape="rect" id="node3" href="$structfifo__stat.html" title="fifo_stat" alt="" coords="339,5,408,32"/>
+<area shape="rect" id="node5" href="$structcodec__ops.html" title="codec_ops" alt="" coords="5,109,91,136"/>
+<area shape="rect" id="node6" href="$structdsp.html" title="dsp" alt="" coords="115,109,157,136"/>
+<area shape="rect" id="node7" href="$structdsp__bus.html" title="dsp_bus" alt="" coords="101,5,171,32"/>
+</map>

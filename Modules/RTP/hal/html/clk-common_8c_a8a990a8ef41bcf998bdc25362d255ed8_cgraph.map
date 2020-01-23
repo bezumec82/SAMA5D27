@@ -1,0 +1,7 @@
+<map id="sys_clk_ctl_tmr_callback" name="sys_clk_ctl_tmr_callback">
+<area shape="rect" id="node2" href="$clk-common_8c.html#ae5172ddb1e1e88019f3ef1990ca2f25b" title="sysclk_source_get_head" alt="" coords="225,5,391,32"/>
+<area shape="rect" id="node3" href="$clk-common_8c.html#afe5459352bf2b048cc44a9bf7738a9e3" title="sys_clock_fail" alt="" coords="255,107,361,133"/>
+<area shape="rect" id="node6" href="$clk-common_8c.html#a0e2eb23ed809e29faada2cb762f35ff4" title="sys_clock_normal" alt="" coords="245,56,371,83"/>
+<area shape="rect" id="node4" href="$clk-common_8c.html#a8a41717990ec1b8ac5303d1912c1a714" title="sys_clock_print" alt="" coords="441,56,554,83"/>
+<area shape="rect" id="node5" href="$clk-common_8c.html#ab40e64fa171123d793f0ea00b1d108dd" title="notify_all" alt="" coords="460,107,535,133"/>
+</map>

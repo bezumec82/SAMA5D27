@@ -1,0 +1,4 @@
+<map id="sys_clock_deinit" name="sys_clock_deinit">
+<area shape="rect" id="node2" href="$clk-common-notify_8c.html#aec225ccb7100d336848a6bc0238c0ed9" title="notify_cleanup_list" alt="" coords="200,5,331,32"/>
+<area shape="rect" id="node3" href="$clk-common_8c.html#a8ca2bd6eef38bbc40b55696fa7a50935" title="sysclk_source_cleanup_list" alt="" coords="174,56,357,83"/>
+</map>

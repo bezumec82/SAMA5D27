@@ -1,0 +1,5 @@
+<map id="sys_clock_init_common" name="sys_clock_init_common">
+<area shape="rect" id="node2" href="$clk-common_8c.html#ac56512dd59ecdbde53336da550915249" title="source_tasklet_callback" alt="" coords="216,31,379,57"/>
+<area shape="rect" id="node3" href="$clk-common_8c.html#ae5172ddb1e1e88019f3ef1990ca2f25b" title="sysclk_source_get_head" alt="" coords="427,5,594,32"/>
+<area shape="rect" id="node4" href="$msec-sched_8c.html#ad1216a904c60c6956bee982a08a3c676" title="msec_scheduler" alt="" coords="452,56,569,83"/>
+</map>

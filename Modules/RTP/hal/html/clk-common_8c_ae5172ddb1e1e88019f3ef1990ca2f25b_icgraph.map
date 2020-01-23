@@ -1,0 +1,7 @@
+<map id="sysclk_source_get_head" name="sysclk_source_get_head">
+<area shape="rect" id="node2" href="$group__Exported.html#gaf2d1ccf1071ab12f0e390a7f826706b3" title="sysclk_source_tick" alt="" coords="235,5,370,32"/>
+<area shape="rect" id="node3" href="$clk-common_8c.html#ac56512dd59ecdbde53336da550915249" title="source_tasklet_callback" alt="" coords="221,56,384,83"/>
+<area shape="rect" id="node6" href="$clk-common_8c.html#a8a990a8ef41bcf998bdc25362d255ed8" title="sys_clk_ctl_tmr_callback" alt="" coords="433,107,602,133"/>
+<area shape="rect" id="node4" href="$clk-common_8h.html#aa56a701b066c61640e59a083d1030c5e" title="sys_clock_init_common" alt="" coords="436,56,599,83"/>
+<area shape="rect" id="node5" href="$module_8c.html#a253213d69c1774ed348cc0f848e65adf" title="In file clk&#45;common.c. " alt="" coords="651,81,757,108"/>
+</map>

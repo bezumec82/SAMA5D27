@@ -1,0 +1,15 @@
+<map id="hal.h" name="hal.h">
+<area shape="rect" id="node2" href="$driver_8h.html" title="Main header of the module. " alt="" coords="617,80,682,107"/>
+<area shape="rect" id="node4" href="$hal-ctl_8c.html" title="hal&#45;ctl.c" alt="" coords="1020,229,1087,256"/>
+<area shape="rect" id="node10" href="$hal-ioctl-misc_8c.html" title="hal&#45;ioctl&#45;misc.c" alt="" coords="1092,155,1202,181"/>
+<area shape="rect" id="node3" href="$vmux_8h_source.html" title="vmux.h" alt="" coords="951,155,1015,181"/>
+<area shape="rect" id="node5" href="$vmux_8c.html" title="vmux.c" alt="" coords="443,229,507,256"/>
+<area shape="rect" id="node6" href="$clk-common_8h.html" title="clk&#45;common.h" alt="" coords="23,155,127,181"/>
+<area shape="rect" id="node7" href="$clk-common-notify_8c.html" title="clk&#45;common&#45;notify.c" alt="" coords="152,155,291,181"/>
+<area shape="rect" id="node8" href="$clk-common_8c.html" title="System clock custom kernel implementation. " alt="" coords="317,155,421,181"/>
+<area shape="rect" id="node9" href="$codec_8c.html" title="codec.c" alt="" coords="445,155,513,181"/>
+<area shape="rect" id="node11" href="$init_8c.html" title="init.c" alt="" coords="538,155,589,181"/>
+<area shape="rect" id="node12" href="$module_8c.html" title="Entry point of the module. &#39;module_init&#39; and &#39;module_exit&#39; are defined here. " alt="" coords="613,155,686,181"/>
+<area shape="rect" id="node13" href="$msec-sched_8c.html" title="Implementation of custom millisecond scheduler. " alt="" coords="711,155,815,181"/>
+<area shape="rect" id="node14" href="$timeslots_8c.html" title="timeslots.c" alt="" coords="840,155,926,181"/>
+</map>

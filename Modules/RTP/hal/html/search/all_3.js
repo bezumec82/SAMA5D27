@@ -1,0 +1,27 @@
+var searchData=
+[
+  ['dcaps',['dcaps',['../structchannel__info.html#a94f68e95aad90870628b7e1ac794c66f',1,'channel_info']]],
+  ['dec_5fbuff',['dec_buff',['../vmux_8c.html#afdec6a85aa7f1655df9cf31252afab79',1,'vmux.c']]],
+  ['decode_5fframe',['decode_frame',['../structchannel.html#aec18360b2de56ed5ed47b39ae111c950',1,'channel::decode_frame()'],['../structvocoder.html#a49e55bd276235e2da601e703bd5344ab',1,'vocoder::decode_frame()']]],
+  ['decoded_5fbytes',['decoded_bytes',['../structchannel.html#ab98b71981c67cd0127932c3b56d699cb',1,'channel']]],
+  ['decoder_5fpayloadtype',['decoder_payloadtype',['../structchannel.html#a439aefc929b1a6c437947f2e41d33b6a',1,'channel']]],
+  ['delete_5fnotify_5fnode',['delete_notify_node',['../clk-common-notify_8c.html#af8b6baa4d8c9c7a89c1f6f0ade181649',1,'delete_notify_node(sysclk_notify_cb_t cb, void *ctx):&#160;clk-common-notify.c'],['../clk-common_8h.html#af8b6baa4d8c9c7a89c1f6f0ade181649',1,'delete_notify_node(sysclk_notify_cb_t cb, void *ctx):&#160;clk-common-notify.c']]],
+  ['destructor',['destructor',['../structinit__struct.html#a4572a0a8a738273ac31925e92da5f30d',1,'init_struct']]],
+  ['dmode',['dmode',['../structchannel__info.html#ae0ae3ec5a9ba5bc8d24b6d136c769f4b',1,'channel_info']]],
+  ['driver_2eh',['driver.h',['../driver_8h.html',1,'']]],
+  ['drv_5fversion',['drv_version',['../structdrv__version.html',1,'']]],
+  ['dsp',['dsp',['../structdsp.html',1,'']]],
+  ['dsp_5fbus',['dsp_bus',['../structdsp__bus.html',1,'']]],
+  ['dsproc_5fconfig',['dsproc_config',['../structdsproc__config.html',1,'']]],
+  ['dsproc_5fdevname',['DSPROC_DEVNAME',['../hal-ioctl_8h.html#a87d2874f4aaa24f5df0bee0dd472f368',1,'hal-ioctl.h']]],
+  ['dsproc_5fenable',['dsproc_enable',['../structdsproc__enable.html',1,'']]],
+  ['dsproc_5fevent',['dsproc_event',['../structdsproc__event.html',1,'']]],
+  ['dsproc_5fvad_5fconfig',['dsproc_vad_config',['../structdsproc__vad__config.html',1,'']]],
+  ['dsproc_5fvad_5fevent',['dsproc_vad_event',['../structdsproc__vad__event.html',1,'']]],
+  ['dtmf_5fdetector_5fcfg',['dtmf_detector_cfg',['../structdtmf__detector__cfg.html',1,'']]],
+  ['dtmf_5fdevname',['DTMF_DEVNAME',['../hal-ioctl_8h.html#aa6cf01e8a3920eb94dc3a90ccb5b1332',1,'hal-ioctl.h']]],
+  ['dtmf_5fdial_5fparams',['dtmf_dial_params',['../structdtmf__dial__params.html',1,'']]],
+  ['dtmf_5fenable',['dtmf_enable',['../structdtmf__enable.html',1,'']]],
+  ['dtmf_5fevent',['dtmf_event',['../structdtmf__event.html',1,'']]],
+  ['dtmf_5ftimestamp',['dtmf_timestamp',['../structvocoder.html#ace6b4a0fae1f42d16274c6e8c86e4f68',1,'vocoder']]]
+];

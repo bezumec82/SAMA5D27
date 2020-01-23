@@ -1,0 +1,6 @@
+<map id="sys_clock_print" name="sys_clock_print">
+<area shape="rect" id="node2" href="$clk-common_8h.html#afe5459352bf2b048cc44a9bf7738a9e3" title="sys_clock_fail" alt="" coords="179,5,285,32"/>
+<area shape="rect" id="node5" href="$clk-common_8h.html#a0e2eb23ed809e29faada2cb762f35ff4" title="sys_clock_normal" alt="" coords="169,56,295,83"/>
+<area shape="rect" id="node3" href="$clk-common_8c.html#a8a990a8ef41bcf998bdc25362d255ed8" title="sys_clk_ctl_tmr_callback" alt="" coords="345,31,514,57"/>
+<area shape="rect" id="node4" href="$module_8c.html#a253213d69c1774ed348cc0f848e65adf" title="In file clk&#45;common.c. " alt="" coords="563,31,669,57"/>
+</map>

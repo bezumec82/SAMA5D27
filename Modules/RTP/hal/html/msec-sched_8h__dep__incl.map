@@ -1,0 +1,7 @@
+<map id="msec&#45;sched.h" name="msec&#45;sched.h">
+<area shape="rect" id="node2" href="$clk-common-notify_8c.html" title="clk&#45;common&#45;notify.c" alt="" coords="5,80,144,107"/>
+<area shape="rect" id="node3" href="$clk-common_8c.html" title="System clock custom kernel implementation. " alt="" coords="169,80,273,107"/>
+<area shape="rect" id="node4" href="$msec-sched_8c.html" title="Implementation of custom millisecond scheduler. " alt="" coords="297,80,401,107"/>
+<area shape="rect" id="node5" href="$timeslots_8c.html" title="timeslots.c" alt="" coords="426,80,512,107"/>
+<area shape="rect" id="node6" href="$vmux_8c.html" title="vmux.c" alt="" coords="537,80,601,107"/>
+</map>

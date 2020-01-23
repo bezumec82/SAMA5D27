@@ -1,0 +1,12 @@
+<map id="sys_clock_init" name="sys_clock_init">
+<area shape="rect" id="node2" href="$group__Init__stuff.html#gaa56a701b066c61640e59a083d1030c5e" title="sys_clock_init_common" alt="" coords="164,56,327,83"/>
+<area shape="rect" id="node7" href="$clk-common_8c.html#a8a990a8ef41bcf998bdc25362d255ed8" title="sys_clk_ctl_tmr_callback" alt="" coords="161,132,330,159"/>
+<area shape="rect" id="node3" href="$clk-common-notify_8c.html#a9288ab8fc670acd212580dae083f69c4" title="Wrapper around variables notify_list and notify_list_lock. " alt="" coords="421,56,499,83"/>
+<area shape="rect" id="node4" href="$clk-common_8c.html#ac56512dd59ecdbde53336da550915249" title="source_tasklet_callback" alt="" coords="379,5,541,32"/>
+<area shape="rect" id="node5" href="$clk-common_8c.html#ae5172ddb1e1e88019f3ef1990ca2f25b" title="sysclk_source_get_head" alt="" coords="590,81,757,108"/>
+<area shape="rect" id="node6" href="$msec-sched_8c.html#ad1216a904c60c6956bee982a08a3c676" title="msec_scheduler" alt="" coords="615,5,732,32"/>
+<area shape="rect" id="node8" href="$clk-common_8c.html#afe5459352bf2b048cc44a9bf7738a9e3" title="sys_clock_fail" alt="" coords="407,208,513,235"/>
+<area shape="rect" id="node11" href="$clk-common_8c.html#a0e2eb23ed809e29faada2cb762f35ff4" title="sys_clock_normal" alt="" coords="397,157,523,184"/>
+<area shape="rect" id="node9" href="$clk-common_8c.html#a8a41717990ec1b8ac5303d1912c1a714" title="sys_clock_print" alt="" coords="617,208,730,235"/>
+<area shape="rect" id="node10" href="$clk-common_8c.html#ab40e64fa171123d793f0ea00b1d108dd" title="notify_all" alt="" coords="636,157,711,184"/>
+</map>

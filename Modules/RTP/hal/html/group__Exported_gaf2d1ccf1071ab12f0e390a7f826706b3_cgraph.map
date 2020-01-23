@@ -1,0 +1,4 @@
+<map id="sysclk_source_tick" name="sysclk_source_tick">
+<area shape="rect" id="node2" href="$clk-common_8c.html#a460c9011fd2d81c0e1e1b8d29859304c" title="sysclk_source_get_node\l_by_id" alt="" coords="190,5,357,46"/>
+<area shape="rect" id="node3" href="$clk-common_8c.html#ae5172ddb1e1e88019f3ef1990ca2f25b" title="sysclk_source_get_head" alt="" coords="190,71,357,97"/>
+</map>
